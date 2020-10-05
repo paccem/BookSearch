@@ -1,0 +1,24 @@
+h1{
+   text-align: center;
+   text-transform: uppercase;
+   color: rebeccapurple;
+   font: 40px bold verdana; 
+}
+.container{
+    margin: auto;
+    width: 600px;
+    height: 90px;
+}
+input{
+    font: 30px verdana;
+    border-radius: 10px 0 10px 0;
+}
+button{
+    font: 30px verdana;
+    border-radius: 10px 0 10px 0;
+    background-color: rebeccapurple;
+    color: seashell;
+}
+#books{
+    font: 20px charcoal verdana;
+}
